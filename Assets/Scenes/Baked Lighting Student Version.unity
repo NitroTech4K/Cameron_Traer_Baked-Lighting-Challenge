@@ -392,7 +392,7 @@ GameObject:
   - component: {fileID: 417905265}
   - component: {fileID: 417905264}
   m_Layer: 0
-  m_Name: Point Light (9)
+  m_Name: Door Light 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -433,8 +433,8 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 1
-  m_Range: 10
+  m_Intensity: 1.63
+  m_Range: 5.4591074
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
@@ -472,12 +472,12 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 4
+  m_Lightmapping: 2
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
-  m_BounceIntensity: 1
-  m_ColorTemperature: 6570
-  m_UseColorTemperature: 0
+  m_BounceIntensity: 2
+  m_ColorTemperature: 4171
+  m_UseColorTemperature: 1
   m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
@@ -492,7 +492,7 @@ Transform:
   m_GameObject: {fileID: 417905263}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 6.853, y: 0, z: 0}
+  m_LocalPosition: {x: 5.436, y: 1.82, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -642,7 +642,7 @@ GameObject:
   - component: {fileID: 885892301}
   - component: {fileID: 885892300}
   m_Layer: 0
-  m_Name: Point Light (4)
+  m_Name: Door Light 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -833,7 +833,7 @@ GameObject:
   - component: {fileID: 1354859410}
   - component: {fileID: 1354859409}
   m_Layer: 0
-  m_Name: Point Light (6)
+  m_Name: Fire Pedistal Light 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -951,7 +951,7 @@ GameObject:
   - component: {fileID: 1660603059}
   - component: {fileID: 1660603058}
   m_Layer: 0
-  m_Name: Point Light (1)
+  m_Name: Lantern Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1069,7 +1069,7 @@ GameObject:
   - component: {fileID: 1848547527}
   - component: {fileID: 1848547526}
   m_Layer: 0
-  m_Name: Point Light (3)
+  m_Name: Door Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1187,7 +1187,7 @@ GameObject:
   - component: {fileID: 1860508214}
   - component: {fileID: 1860508213}
   m_Layer: 0
-  m_Name: Point Light (7)
+  m_Name: Glass Pane Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1305,7 +1305,7 @@ GameObject:
   - component: {fileID: 1885600267}
   - component: {fileID: 1885600266}
   m_Layer: 0
-  m_Name: Point Light (5)
+  m_Name: Fire Pedistal Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1596,7 +1596,7 @@ GameObject:
   - component: {fileID: 2033441014}
   - component: {fileID: 2033441013}
   m_Layer: 0
-  m_Name: Point Light (2)
+  m_Name: Lantern Light 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1714,7 +1714,7 @@ GameObject:
   - component: {fileID: 2044374379}
   - component: {fileID: 2044374378}
   m_Layer: 0
-  m_Name: Point Light
+  m_Name: Center Pedistal Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1916,7 +1916,7 @@ GameObject:
   - component: {fileID: 2138470776}
   - component: {fileID: 2138470775}
   m_Layer: 0
-  m_Name: Point Light (8)
+  m_Name: Glass Pane Light 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
